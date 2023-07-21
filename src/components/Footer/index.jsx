@@ -5,7 +5,7 @@ function Footer (){
         
 
         <div>
-            <p>Derechos reservados DON DRONE 2023</p>
+            <p>Derechos reservados DON DRON 2023</p>
             
         </div>
 
