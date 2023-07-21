@@ -5,6 +5,7 @@ import './App.css'
 
 import Navbar from "./components/Navbar";
 import ItemListContainer from './components/ItemListContainer';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <main className='main'>
         <Navbar />
         <ItemListContainer saludoscompa="Hola amigo, Hola amigo!" />
+        <Footer />
     </main>
   );
   

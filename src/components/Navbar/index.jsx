@@ -10,6 +10,7 @@ function Navbar (){
             <button>Inicio</button>
             <button>Drones</button>
             <button>Repuestos</button>
+            <button>Contactenos</button>
         </div>
 
         <CartWidget />
